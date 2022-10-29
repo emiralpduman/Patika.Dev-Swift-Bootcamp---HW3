@@ -2,7 +2,7 @@
 
 An app to show user the various categories of iTunes API, such as; Movies, Music, Software, Ebooks and Podcast.
 
-### Assignment given in Patika.dev iOS Swift Bootcamp
+###### Assignment given in Patika.dev iOS Swift Bootcamp
 
 ## Features
 
