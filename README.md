@@ -1,6 +1,6 @@
 # iTunes Client App
 
-An app to show user the various categories of iTunes API, such as; Movies, Music, Software, Ebooks and Podcast.
+An app to show user the various categories of iTunes API, such as; Movies, Musics, Softwares, E-Books and Podcasts.
 
 ###### Assignment given in Patika.dev iOS Swift Bootcamp
 
