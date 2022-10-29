@@ -6,6 +6,8 @@ An app to show user the various categories of iTunes API, such as; Movies, Music
 
 ## Features
 
+https://user-images.githubusercontent.com/83015729/195334182-82955626-9df0-46f7-9021-bbaaca5775bd.mp4
+
 - Featch iTunes API real-time.
 - Lists the elements of various categories in seperate tabs.
 - Does search on each category based on user input.
